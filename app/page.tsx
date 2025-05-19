@@ -280,7 +280,7 @@ export default function Home() {
                       </div>
                       <h4>Bootsrap</h4>
                       <div className="skill-progress">
-                        <div className="progress-bar w=[90%]"></div>
+                        <div className="progress-bar w-[90%]"></div>
                       </div>
                       <span className="progress-value">90%</span>
                     </div>
